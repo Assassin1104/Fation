@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "website-scraper": "^5.3.0"
+  },
+  "name": "Fation",
+  "version": "1.0.0",
+  "description": "web scraper",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "WindAssassin1104",
+  "license": "MIT"
+}
